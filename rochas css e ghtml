@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minerais e Rochas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #2e86c1;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #2e86c1;
+        }
+
+        footer {
+            text-align: center;
+            background-color: #2e86c1;
+            color: white;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Minerais e Rochas</h1>
+    </header>
+
+    <main>
+        <h2>O que são Minerais?</h2>
+        <p>Minerais são substâncias naturais, geralmente sólidas e inorgânicas, com composição química definida e estrutura cristalina. Eles são os blocos fundamentais das rochas.</p>
+
+        <h2>Exemplos de Minerais</h2>
+        <ul>
+            <li>Quartzo</li>
+            <li>Feldspato</li>
+            <li>Mica</li>
+            <li>Calcita</li>
+            <li>Hematita</li>
+        </ul>
+
+        <h2>O que são Rochas?</h2>
+        <p>Rochas são agregados naturais formados por um ou mais minerais. Elas compõem a crosta terrestre e podem ser classificadas em três tipos principais: ígneas, sedimentares e metamórficas.</p>
+
+        <h2>Tipos de Rochas</h2>
+        <ul>
+            <li><strong>Ígneas:</strong> formadas pelo resfriamento do magma. Ex: granito, basalto.</li>
+            <li><strong>Sedimentares:</strong> formadas pela compactação de sedimentos. Ex: arenito, calcário.</li>
+            <li><strong>Metamórficas:</strong> formadas pela transformação de outras rochas. Ex: mármore, gnaisse.</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Página Educativa sobre Minerais e Rochas</p>
+    </footer>
+</body>
+</html>
